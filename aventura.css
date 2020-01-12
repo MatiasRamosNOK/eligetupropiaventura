@@ -1,0 +1,48 @@
+body {
+    text-align: center;
+    background-color: #db0000;
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+p {
+    font-size: 20px;
+}
+
+#calavera {
+    width: 500px;
+    height: 500px;
+}
+
+#rocket {
+    width: 400px;
+    height: 200px;
+}
+
+#munieco {
+    width: 200px;
+    height: 100px;
+}
+
+.boton {
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    background-color: black;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#aceptado:hover {
+    background-color: forestgreen;
+    color: black;
+}
+
+#rechazado:hover {
+    background-color: crimson;
+    color: white;
+}
